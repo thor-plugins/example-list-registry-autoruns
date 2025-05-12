@@ -1,4 +1,4 @@
-module github.com/thor-plugin/template
+module github.com/thor-plugins/example-list-registry-autoruns
 
 go 1.24.2
 
